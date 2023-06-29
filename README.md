@@ -6,10 +6,10 @@
 src="https://komarev.com/ghpvc/?username=rounabhsahu&label=Profile%20views&color=0e75b6&style=flat"
  alt="rounabhsahu" /> </p>
 
-<p align="left"> <a 
+<!--<p align="left"> <a 
 href="https://github.com/ryo-ma/github-profile-trophy"><img 
 src="https://github-profile-trophy.vercel.app/?username=rounabhsahu" 
-alt="rounabhsahu" /></a> </p>
+alt="rounabhsahu" /></a> </p>-->
 
 - 🔭 I’m currently working on [CyrptoTracker](https://github.com/RounabhSahu/CryptoTracker)
 
