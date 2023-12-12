@@ -11,7 +11,7 @@ href="https://github.com/ryo-ma/github-profile-trophy"><img
 src="https://github-profile-trophy.vercel.app/?username=rounabhsahu" 
 alt="rounabhsahu" /></a> </p>-->
 
-- 🔭 My recent best project is [CyrptoTracker](https://github.com/RounabhSahu/CryptoTracker)
+- 🔭 My recent best project is [CryptoTracker](https://github.com/RounabhSahu/CryptoTracker)
 
 - 🌱 I’m currently learning **NextJS, NodeJS**
 
